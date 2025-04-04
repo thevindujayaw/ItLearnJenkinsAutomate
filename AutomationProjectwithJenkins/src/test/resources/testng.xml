@@ -2,7 +2,7 @@
 <suite name="Suite">
     <test name="Test">
         <classes>
-             <class name="com.itlearn.testcases.Cardpayment"/>
+             <class name="com.itlearn.testcases.SearchTestcases"/>
             
         </classes>
     </test>
